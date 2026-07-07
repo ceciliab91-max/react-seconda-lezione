@@ -16,7 +16,6 @@ function App() {
       <Alert type="primary" text="Sono una schiappa">
         &#9752;      </Alert>
       <Alert type="secondary" text="Forse arrivo alla fine della lezione">
-        <img src="https://png.pngtree.com/recommend-works/png-clipart/20250321/ourmid/pngtree-green-check-mark-icon-png-image_15808519.png" />
       </Alert>
       <Alert type="success" text="Forse arrivo alla fine della lezione"> </Alert>
       <Alert type="danger" text="Forse arrivo alla fine della lezione"> </Alert>
