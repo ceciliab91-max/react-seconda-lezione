@@ -1,7 +1,7 @@
 import { useState } from "react";
 function SelezioneTaglie() {
     const taglie = ['XS', 'S', 'M', 'L', 'XL'];
-    const [tagliaSelezionata, setSelezione] = useState("null");
+    const [tagliaSelezionata, setTagliaSelezionata] = useState("null");
     const scegliColore = (tagliaDelBottone) => {
         if (tagliaSelezionata === tagliaDelBottone) {
             return "btn btn-primary";
